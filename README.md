@@ -1,7 +1,7 @@
 # Verivox-Assignment
 Automation Assignment given by Verivox
 
-I have uploaded complete Assignment project folder named 'VerivoxAssignment' and 'Guide for Implementation and set up details.
+I have uploaded complete Assignment project folder named 'VerivoxAssignment' and document 'Guide for Implementation and set up details'.
 Uploading all these documents on google drive as well.
 path :
 https://drive.google.com/drive/folders/1My0Sjgr7qQVTccAf_h_lNFZJX76UmN2z?usp=sharing
